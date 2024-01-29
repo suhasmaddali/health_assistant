@@ -1,1 +1,1 @@
-# health_assistant
+# Health Assistant
