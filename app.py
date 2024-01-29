@@ -1,19 +1,16 @@
 import langchain
 import streamlit as st
-from dotenv import load_dotenv
 from langchain.schema import HumanMessage, SystemMessage, AIMessage
 from langchain_community.chat_models import ChatOpenAI
 from langchain.cache import InMemoryCache
 from langchain.prompts import PromptTemplate
 
-langchain.llm_cache = InMemoryCache()
-
-load_dotenv()
-
 import warnings
 warnings.filterwarnings("ignore")
 
-chat = ChatOpenAI()
+api_key = "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"
+chat = ChatOpenAI(openai_api_key=api_key)
+print(chat.openai_api_key)
 
 system_message = """You are a helpful doctor who answers all the queries like a doctor. 
 Ensure to give a {detail} nutrition plan for your application and useful piece of advice as a doctor to the person. 
