@@ -1,3 +1,3 @@
 # Health Assistant
 
-Demo: https://healthassistant-mixtral-nvidia.streamlit.app/
+__Demo:__ https://healthassistant-mixtral-nvidia.streamlit.app/
