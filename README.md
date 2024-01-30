@@ -8,4 +8,4 @@ The integration of large language models (LLMs) as health assistants could signi
 
 Additionally, LLMs can help in public health monitoring and response, potentially reducing healthcare costs. However, this technology faces challenges in ensuring information accuracy, maintaining privacy, and addressing ethical implications. Furthermore, LLMs can improve with continued learning and help bridge language and cultural barriers in healthcare.
 
-Thanks to suggestions by chatGPT and support from NVIDIA was it possible to create this repository.
+Thanks to suggestions by __chatGPT__ and support from __NVIDIA__ was it possible to create this repository.
