@@ -1,7 +1,5 @@
 # Health Assistant Application
 
-__Demo:__ https://healthassistant-mixtral-nvidia.streamlit.app/
-
 ![](https://github.com/suhasmaddali/health_assistant/blob/main/Images/health_assistant_doctor.png)
 
 The integration of large language models (LLMs) as health assistants could significantly impact society by enhancing healthcare accessibility, especially in underserved areas. These models can support healthcare professionals by providing quick access to medical information, assist in preliminary diagnoses, and reduce workloads. They offer personalized health advice and mental health support, and play a role in educating the public about health issues. 
